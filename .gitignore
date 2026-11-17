@@ -13,3 +13,6 @@ hw02/
 *.pt
 *.pth
 .ipynb_checkpoints/
+practice_photos/
+practice_data/
+hw02_data/
