@@ -1,0 +1,15 @@
+# 개인 사진·가중치는 저장소에 올리지 않음
+can/
+carton/
+pet/
+hw02/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.HEIC
+*.JPG
+*.zip
+*.pt
+*.pth
+.ipynb_checkpoints/
